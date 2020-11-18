@@ -1,4 +1,8 @@
-## 0.44.0 (Unreleased)
+## 0.45.0 (Unreleased)
+## 0.44.0 (November 18, 2020)
+ENHANCEMENTS:
+* mdb: add `conn_limit` attribute to `user` entity in `yandex_mdb_postgresql_cluster` resource and data source
+
 ## 0.43.0 (August 20, 2020)
 
 FEATURES:
